@@ -23,5 +23,4 @@ We use this package to translate the raw sensors data and plot the following:
       *The audio signal from Bluetooth sensor
       *The accelerometer x,y and z data from Bluetooth and ZigBee sensors
       *The RSSI value from ZigBee sensor
-###ReaderZigBee
-This class in the test package is responible to receive ZigBee packets from Beaglebone Black. Since our interface is ZigBee and the receiving device is BBB, we use a socket server-client program to transfer the data to the NUC.
+
