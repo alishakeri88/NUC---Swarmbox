@@ -21,4 +21,4 @@ This class is responible to receive ZigBee packets from Beaglebone Black. Since 
 Then it extracts the accelerometer x,y and z values and plots them.
 
 ###Window
-Window is the Graphical User Interface of our program. It requires the user to enter the serial port and the socket port numbers. After entring these numbers the user can click start to run the program. User also needs run the client socket program on the BBB.
+Window is the Graphical User Interface of our program. It requires the user to enter the serial port and the socket port numbers. After entring these numbers the user can click start to run the program. User also needs to run the client socket program on the BBB.
