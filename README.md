@@ -13,7 +13,7 @@ Here we need to make a little change to introduce these ports to our program. Fo
       ln -s rfcomm0 ttyS50
       ln -s rfcomm1 ttyS51
 
-We need to make sure that these serial ports don't really exist! You can usually use the number more than 50 like what we did.
+We need to make sure that these serial ports don't really exist! You can usually use the numbers greater than 50 like what we did.
 
 ##test
 We named this package as test because we can run different algorithms on it, so it is still under development and we can use it for different purposes.
