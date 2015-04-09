@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Dec 02 21:46:30 CST 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=EMG_ComReceiver_1202.jar
+manifest.mergeall=true
+manifest.mainclass=test.Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
